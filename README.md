@@ -22,17 +22,17 @@ In Python, I learned how to build GUI's, work with existing libraries, work with
 
 Find the project under <a href="https://github.com/dmcochener/TechAcademy/SQLScript">SQL Script</a> in the Tech Academy Repository.
 
-# Pizza Drill
+# Pizza Drill (JavaScript)
 JavaScript was one of the first introductions to creating call back functions. The pizza drill was a simple web page designed to allow for ordering a pizza online. It did not actually work with a database for storing the order, but had calculations for the total of the pizza.
 
 Find the project under <a href="https://github.com/dmcochener/TechAcademy/pizza-drill">Pizza Drill</a> in the Tech Academy Repository.
 
-# Fake Library
+# Fake Library (SQL)
 The final project for the SQL module of my boot camp was specific model instructions on developing a database for a library system. The way the database is set up is far from ideal, and I may re-do this project in the future with what I believe to be a better model. But it does show my abilities to program in SQL.
 
 Find the project under <a href="https://github.com/dmcochener/TechAcademy/fake_library">Fake Library</a> in the Tech Academy Repository.
 
-# Personal Webpage
+# Personal Webpage 
 At the end of my HTML/CSS/Bootstrap module, I developed my own webpage. I've updated it to include some minimal JavaScript. As I tend to prefer back-end development, I haven't worked much on some of the issues I have with this page (such as making it more mobile friendly), but I've kept the content up to date.
 
 Find <a href="https://github.com/dmcochener/dmcochener.github.io">the code</a> for my <a href="https://dmcochener.github.io">personal webpage</a> in the github.io repository.
